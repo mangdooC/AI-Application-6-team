@@ -1,5 +1,7 @@
 # AI-Application-6-team
 
+topic : 외국인들의 한국어 구사 능력을 평가해주는 모델 만들기
+https://www.yna.co.kr/view/AKR20190118134400004
 |name|from|characteristic|
 |------|---|---|
 |이주연|🇰🇷|Update...|
