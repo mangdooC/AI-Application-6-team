@@ -1,0 +1,50 @@
+import librosa
+import webrtcvad
+import collections
+import contextlib
+import wave
+from pydub import AudioSegment
+
+# 1. 음성 파일을 읽어오기 (16kHz, mono로 변환)
+def load_audio(file_path):
+    audio = AudioSegment.from_file(file_path)
+    audio = audio.set_frame_rate(16000).set_channels(1)
+    raw_audio = audio.raw_data
+    return raw_audio, audio.frame_rate
+
+# 2. Voice Activity Detection (VAD)로 음성/무음 구간 감지
+def detect_pauses(audio_bytes, sample_rate):
+    vad = webrtcvad.Vad(2)  # 0~3: aggressiveness, 3이 가장 민감
+    frame_duration = 30  # 30ms
+    frame_bytes = int(sample_rate * frame_duration / 1000 * 2)  # 2 bytes per sample
+
+    pauses = []
+    for i in range(0, len(audio_bytes), frame_bytes):
+        frame = audio_bytes[i:i+frame_bytes]
+        if len(frame) < frame_bytes:
+            break
+        is_speech = vad.is_speech(frame, sample_rate)
+        if not is_speech:
+            pauses.append(i / (sample_rate * 2))  # 위치(초) 저장
+    return pauses
+
+# 3. 발화 속도 계산 (ASR 없이 대략적 추정, 고급 버전은 ASR 필요)
+def estimate_speech_rate(audio_path):
+    y, sr = librosa.load(audio_path, sr=16000)
+    duration_sec = librosa.get_duration(y=y, sr=sr)
+    # 대략적으로 평균 단어 수를 초당 2~3개로 가정 (보통 성인의 자연스러운 발화 속도)
+    avg_words_per_sec = 2.5
+    estimated_word_count = duration_sec * avg_words_per_sec
+    words_per_min = estimated_word_count * 60 / duration_sec
+    return words_per_min
+
+# 4. 실행
+if __name__ == "__main__":
+    audio_path = 'your_audio_file.wav'  # 16kHz로 변환된 wav 파일 필요
+    raw_audio, sample_rate = load_audio(audio_path)
+
+    pauses = detect_pauses(raw_audio, sample_rate)
+    speech_rate = estimate_speech_rate(audio_path)
+
+    print(f"Detected {len(pauses)} pauses")
+    print(f"Estimated Speech Rate: {speech_rate:.2f} words per minute")
