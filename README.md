@@ -9,9 +9,6 @@ https://www.yna.co.kr/view/AKR20190118134400004
 |한민희|🇰🇷|Every 'No' has its reason! critical Analyst|
 |냠게렐|🇲🇳|Update...|
 
-6주차 회의록
+회의록 & 자료조사 뭉치
 https://docs.google.com/document/d/1dErv3aC6UMj5E2muUJJjb6iUzmQcOuDqkSGhLt0hoxI/edit?tab=t.axzx8z8bf9ff
 
-8주차 회의록
-
-9주차 발표자료
