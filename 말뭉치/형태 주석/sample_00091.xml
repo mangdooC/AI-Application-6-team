@@ -1,0 +1,797 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Korean_Learners_Corpus>
+  <Header>
+    <SampleSeq>00091</SampleSeq>
+    <LearningEnvironment>국내</LearningEnvironment>
+    <SourceType>문어</SourceType>
+    <AssignmentType>시험 작문</AssignmentType>
+    <AssignmentGenre>생활문</AssignmentGenre>
+    <AssignmentTheme>내가 닮고 싶은 사람</AssignmentTheme>
+    <WordCount>125</WordCount>
+    <LearnerInfo sequence="1">
+      <LearnerType>일반</LearnerType>
+      <LearnerTypeDetail>일반</LearnerTypeDetail>
+      <AgeGroup>20</AgeGroup>
+      <DataGrade>3급</DataGrade>
+      <Nationality>중국</Nationality>
+      <LearningPurpose>취미</LearningPurpose>
+      <MotherLanguage>중국어</MotherLanguage>
+    </LearnerInfo>
+  </Header>
+  <BODY>
+    <TITLE to="13" from="0">
+      <SENTENCE to="13" from="0">
+        <s>내가 닮고 싶은 사람</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>내가</w>
+            <morph from="0" to="2" analyzedType="Ambiguity" pos="NP" subsequence="1">내</morph>
+            <morph from="0" to="2" analyzedType="Ambiguity" pos="JKS" subsequence="2">가</morph>
+          </word>
+          <word>
+            <w>닮고</w>
+            <morph from="3" to="5" analyzedType="Normal" pos="VV" subsequence="1">닮</morph>
+            <morph from="3" to="5" analyzedType="Normal" pos="EC" subsequence="2">고</morph>
+          </word>
+          <word>
+            <w>싶은</w>
+            <morph from="6" to="8" analyzedType="Ambiguity" pos="VX" subsequence="1">싶</morph>
+            <morph from="6" to="8" analyzedType="Ambiguity" pos="ETM" subsequence="2">은</morph>
+          </word>
+          <word>
+            <w>사람</w>
+            <morph from="9" to="11" analyzedType="Normal" pos="NNG" subsequence="1">사람</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+    </TITLE>
+    <P to="98" from="13">
+      <SENTENCE to="33" from="13">
+        <s>나는 지금 닮고 싶은 사람이 없다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>나는</w>
+            <morph from="13" to="15" analyzedType="Ambiguity" pos="NP" subsequence="1">나</morph>
+            <morph from="13" to="15" analyzedType="Ambiguity" pos="JX" subsequence="2">는</morph>
+          </word>
+          <word>
+            <w>지금</w>
+            <morph from="16" to="18" analyzedType="Ambiguity" pos="NNG" subsequence="1">지금</morph>
+          </word>
+          <word>
+            <w>닮고</w>
+            <morph from="19" to="21" analyzedType="Normal" pos="VV" subsequence="1">닮</morph>
+            <morph from="19" to="21" analyzedType="Normal" pos="EC" subsequence="2">고</morph>
+          </word>
+          <word>
+            <w>싶은</w>
+            <morph from="22" to="24" analyzedType="Ambiguity" pos="VX" subsequence="1">싶</morph>
+            <morph from="22" to="24" analyzedType="Ambiguity" pos="ETM" subsequence="2">은</morph>
+          </word>
+          <word>
+            <w>사람이</w>
+            <morph from="25" to="28" analyzedType="Normal" pos="NNG" subsequence="1">사람</morph>
+            <morph from="25" to="28" analyzedType="Normal" pos="JKS" subsequence="2">이</morph>
+          </word>
+          <word>
+            <w>없다.</w>
+            <morph from="29" to="32" analyzedType="Ambiguity" pos="VA" subsequence="1">없</morph>
+            <morph from="29" to="32" analyzedType="Ambiguity" pos="EF" subsequence="2">다</morph>
+            <morph from="29" to="32" analyzedType="Normal" pos="SF" subsequence="3">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+      <SENTENCE to="59" from="33">
+        <s>왜냐하면 내가 닮고 싶은 사람을 한번 만났다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>왜냐하면</w>
+            <morph from="33" to="37" analyzedType="Ambiguity" pos="MAG" subsequence="1">왜냐하면</morph>
+          </word>
+          <word>
+            <w>내가</w>
+            <morph from="38" to="40" analyzedType="Ambiguity" pos="NP" subsequence="1">내</morph>
+            <morph from="38" to="40" analyzedType="Ambiguity" pos="JKS" subsequence="2">가</morph>
+          </word>
+          <word>
+            <w>닮고</w>
+            <morph from="41" to="43" analyzedType="Normal" pos="VV" subsequence="1">닮</morph>
+            <morph from="41" to="43" analyzedType="Normal" pos="EC" subsequence="2">고</morph>
+          </word>
+          <word>
+            <w>싶은</w>
+            <morph from="44" to="46" analyzedType="Ambiguity" pos="VX" subsequence="1">싶</morph>
+            <morph from="44" to="46" analyzedType="Ambiguity" pos="ETM" subsequence="2">은</morph>
+          </word>
+          <word>
+            <w>사람을</w>
+            <morph from="47" to="50" analyzedType="Normal" pos="NNG" subsequence="1">사람</morph>
+            <morph from="47" to="50" analyzedType="Normal" pos="JKO" subsequence="2">을</morph>
+          </word>
+          <word>
+            <w>한번</w>
+            <morph from="51" to="53" analyzedType="Manual" pos="MAG" subsequence="1">한번</morph>
+          </word>
+          <word>
+            <w>만났다.</w>
+            <morph from="54" to="58" analyzedType="Ambiguity" pos="VV" subsequence="1">만나</morph>
+            <morph from="54" to="58" analyzedType="Ambiguity" pos="EP" subsequence="2">았</morph>
+            <morph from="54" to="58" analyzedType="Ambiguity" pos="EF" subsequence="3">다</morph>
+            <morph from="54" to="58" analyzedType="Normal" pos="SF" subsequence="4">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+      <SENTENCE to="71" from="59">
+        <s>그분은 정용화입니다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>그분은</w>
+            <morph from="59" to="62" analyzedType="Normal" pos="NP" subsequence="1">그분</morph>
+            <morph from="59" to="62" analyzedType="Normal" pos="JX" subsequence="2">은</morph>
+          </word>
+          <word>
+            <w>정용화입니다.</w>
+            <morph from="63" to="70" analyzedType="Manual" pos="NNP" subsequence="1">정용화</morph>
+            <morph from="63" to="70" analyzedType="Manual" pos="VCP" subsequence="2">이</morph>
+            <morph from="63" to="70" analyzedType="Manual" pos="EF" subsequence="3">ㅂ니다</morph>
+            <morph from="63" to="70" analyzedType="Normal" pos="SF" subsequence="4">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+      <SENTENCE to="98" from="71">
+        <s>정용화는 아이도이지만 내 목표를 지도를 했다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>정용화는</w>
+            <morph from="71" to="75" analyzedType="Manual" pos="NNP" subsequence="1">정용화</morph>
+            <morph from="71" to="75" analyzedType="Manual" pos="JX" subsequence="2">는</morph>
+          </word>
+          <word>
+            <w>아이도이지만</w>
+            <morph from="76" to="82" analyzedType="Manual" pos="NNG" subsequence="1">아이도</morph>
+            <morph from="76" to="82" analyzedType="Manual" pos="VCP" subsequence="2">이</morph>
+            <morph from="76" to="82" analyzedType="Manual" pos="EC" subsequence="3">지만</morph>
+          </word>
+          <word>
+            <w>내</w>
+            <morph from="83" to="84" analyzedType="Ambiguity" pos="NP" subsequence="1">나</morph>
+            <morph from="83" to="84" analyzedType="Ambiguity" pos="JKG" subsequence="2">의</morph>
+          </word>
+          <word>
+            <w>목표를</w>
+            <morph from="85" to="88" analyzedType="Normal" pos="NNG" subsequence="1">목표</morph>
+            <morph from="85" to="88" analyzedType="Normal" pos="JKO" subsequence="2">를</morph>
+          </word>
+          <word>
+            <w>지도를</w>
+            <morph from="89" to="92" analyzedType="Ambiguity" pos="NNG" subsequence="1">지도</morph>
+            <morph from="89" to="92" analyzedType="Ambiguity" pos="JKO" subsequence="2">를</morph>
+          </word>
+          <word>
+            <w>했다.</w>
+            <morph from="93" to="96" analyzedType="Ambiguity" pos="VV" subsequence="1">하</morph>
+            <morph from="93" to="96" analyzedType="Ambiguity" pos="EP" subsequence="2">았</morph>
+            <morph from="93" to="96" analyzedType="Ambiguity" pos="EF" subsequence="3">다</morph>
+            <morph from="93" to="96" analyzedType="Normal" pos="SF" subsequence="4">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+    </P>
+    <P to="313" from="98">
+      <SENTENCE to="132" from="98">
+        <s>고등학교 줄업 때, 나는 어느 전공을 선택하지 잘 몰르겠다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>고등학교</w>
+            <morph from="98" to="102" analyzedType="Normal" pos="NNG" subsequence="1">고등학교</morph>
+          </word>
+          <word>
+            <w>줄업</w>
+            <morph from="103" to="105" analyzedType="Manual" pos="NNG" subsequence="1">줄업</morph>
+          </word>
+          <word>
+            <w>때,</w>
+            <morph from="106" to="108" analyzedType="Ambiguity" pos="NNG" subsequence="1">때</morph>
+            <morph from="106" to="108" analyzedType="Normal" pos="SP" subsequence="2">,</morph>
+          </word>
+          <word>
+            <w>나는</w>
+            <morph from="109" to="111" analyzedType="Ambiguity" pos="NP" subsequence="1">나</morph>
+            <morph from="109" to="111" analyzedType="Ambiguity" pos="JX" subsequence="2">는</morph>
+          </word>
+          <word>
+            <w>어느</w>
+            <morph from="112" to="114" analyzedType="Ambiguity" pos="MM" subsequence="1">어느</morph>
+          </word>
+          <word>
+            <w>전공을</w>
+            <morph from="115" to="118" analyzedType="Ambiguity" pos="NNG" subsequence="1">전공</morph>
+            <morph from="115" to="118" analyzedType="Ambiguity" pos="JKO" subsequence="2">을</morph>
+          </word>
+          <word>
+            <w>선택하지</w>
+            <morph from="119" to="123" analyzedType="Normal" pos="NNG" subsequence="1">선택</morph>
+            <morph from="119" to="123" analyzedType="Normal" pos="XSV" subsequence="2">하</morph>
+            <morph from="119" to="123" analyzedType="Normal" pos="EC" subsequence="3">지</morph>
+          </word>
+          <word>
+            <w>잘</w>
+            <morph from="124" to="125" analyzedType="Ambiguity" pos="MAG" subsequence="1">잘</morph>
+          </word>
+          <word>
+            <w>몰르겠다.</w>
+            <morph from="126" to="131" analyzedType="Manual" pos="VV" subsequence="1">몰르</morph>
+            <morph from="126" to="131" analyzedType="Manual" pos="EP" subsequence="2">겠</morph>
+            <morph from="126" to="131" analyzedType="Manual" pos="EF" subsequence="3">다</morph>
+            <morph from="126" to="131" analyzedType="Normal" pos="SF" subsequence="4">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+      <SENTENCE to="144" from="132">
+        <s>그때 정말 고민했다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>그때</w>
+            <morph from="132" to="134" analyzedType="Normal" pos="NNG" subsequence="1">그때</morph>
+          </word>
+          <word>
+            <w>정말</w>
+            <morph from="135" to="137" analyzedType="Ambiguity" pos="MAG" subsequence="1">정말</morph>
+          </word>
+          <word>
+            <w>고민했다.</w>
+            <morph from="138" to="143" analyzedType="Normal" pos="NNG" subsequence="1">고민</morph>
+            <morph from="138" to="143" analyzedType="Normal" pos="XSV" subsequence="2">하</morph>
+            <morph from="138" to="143" analyzedType="Normal" pos="EP" subsequence="3">았</morph>
+            <morph from="138" to="143" analyzedType="Normal" pos="EF" subsequence="4">다</morph>
+            <morph from="138" to="143" analyzedType="Normal" pos="SF" subsequence="5">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+      <SENTENCE to="168" from="144">
+        <s>정용화를 생각한다면 한국어학과를 선택했다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>정용화를</w>
+            <morph from="144" to="148" analyzedType="Manual" pos="NNP" subsequence="1">정용화</morph>
+            <morph from="144" to="148" analyzedType="Manual" pos="JKO" subsequence="2">를</morph>
+          </word>
+          <word>
+            <w>생각한다면</w>
+            <morph from="149" to="154" analyzedType="Ambiguity" pos="NNG" subsequence="1">생각</morph>
+            <morph from="149" to="154" analyzedType="Ambiguity" pos="XSV" subsequence="2">하</morph>
+            <morph from="149" to="154" analyzedType="Ambiguity" pos="EC" subsequence="3">ㄴ다면</morph>
+          </word>
+          <word>
+            <w>한국어학과를</w>
+            <morph from="155" to="161" analyzedType="Normal, Manual" pos="NNG" subsequence="1">한국어학과</morph>
+            <morph from="155" to="161" analyzedType="Normal" pos="JKO" subsequence="2">를</morph>
+          </word>
+          <word>
+            <w>선택했다.</w>
+            <morph from="162" to="167" analyzedType="Ambiguity" pos="NNG" subsequence="1">선택</morph>
+            <morph from="162" to="167" analyzedType="Ambiguity" pos="XSV" subsequence="2">하</morph>
+            <morph from="162" to="167" analyzedType="Ambiguity" pos="EP" subsequence="3">았</morph>
+            <morph from="162" to="167" analyzedType="Ambiguity" pos="EF" subsequence="4">다</morph>
+            <morph from="162" to="167" analyzedType="Normal" pos="SF" subsequence="5">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+      <SENTENCE to="197" from="168">
+        <s>1년 전에 한국에 오는 것을 아무것도 생각이 없다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>1년</w>
+            <morph from="168" to="170" analyzedType="Normal" pos="SN" subsequence="1">1</morph>
+            <morph from="168" to="170" analyzedType="Ambiguity" pos="NNB" subsequence="2">년</morph>
+          </word>
+          <word>
+            <w>전에</w>
+            <morph from="171" to="173" analyzedType="Ambiguity" pos="NNG" subsequence="1">전</morph>
+            <morph from="171" to="173" analyzedType="Ambiguity" pos="JKB" subsequence="2">에</morph>
+          </word>
+          <word>
+            <w>한국에</w>
+            <morph from="174" to="177" analyzedType="Normal" pos="NNP" subsequence="1">한국</morph>
+            <morph from="174" to="177" analyzedType="Normal" pos="JKB" subsequence="2">에</morph>
+          </word>
+          <word>
+            <w>오는</w>
+            <morph from="178" to="180" analyzedType="Ambiguity" pos="VV" subsequence="1">오</morph>
+            <morph from="178" to="180" analyzedType="Ambiguity" pos="ETM" subsequence="2">는</morph>
+          </word>
+          <word>
+            <w>것을</w>
+            <morph from="181" to="183" analyzedType="Ambiguity" pos="NNB" subsequence="1">것</morph>
+            <morph from="181" to="183" analyzedType="Ambiguity" pos="JKO" subsequence="2">을</morph>
+          </word>
+          <word>
+            <w>아무것도</w>
+            <morph from="184" to="188" analyzedType="Ambiguity" pos="NNG" subsequence="1">아무것</morph>
+            <morph from="184" to="188" analyzedType="Ambiguity" pos="JX" subsequence="2">도</morph>
+          </word>
+          <word>
+            <w>생각이</w>
+            <morph from="189" to="192" analyzedType="Ambiguity" pos="NNG" subsequence="1">생각</morph>
+            <morph from="189" to="192" analyzedType="Ambiguity" pos="JKS" subsequence="2">이</morph>
+          </word>
+          <word>
+            <w>없다.</w>
+            <morph from="193" to="196" analyzedType="Ambiguity" pos="VA" subsequence="1">없</morph>
+            <morph from="193" to="196" analyzedType="Ambiguity" pos="EF" subsequence="2">다</morph>
+            <morph from="193" to="196" analyzedType="Normal" pos="SF" subsequence="3">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+      <SENTENCE to="210" from="197">
+        <s>정용화를 위해서 왔다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>정용화를</w>
+            <morph from="197" to="201" analyzedType="Manual" pos="NNP" subsequence="1">정용화</morph>
+            <morph from="197" to="201" analyzedType="Manual" pos="JKO" subsequence="2">를</morph>
+          </word>
+          <word>
+            <w>위해서</w>
+            <morph from="202" to="205" analyzedType="Ambiguity" pos="VV" subsequence="1">위하</morph>
+            <morph from="202" to="205" analyzedType="Ambiguity" pos="EC" subsequence="2">아서</morph>
+          </word>
+          <word>
+            <w>왔다.</w>
+            <morph from="206" to="209" analyzedType="Ambiguity" pos="VV" subsequence="1">오</morph>
+            <morph from="206" to="209" analyzedType="Ambiguity" pos="EP" subsequence="2">았</morph>
+            <morph from="206" to="209" analyzedType="Ambiguity" pos="EF" subsequence="3">다</morph>
+            <morph from="206" to="209" analyzedType="Normal" pos="SF" subsequence="4">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+      <SENTENCE to="227" from="210">
+        <s>이제 생각하면 후휘하지 않다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>이제</w>
+            <morph from="210" to="212" analyzedType="Ambiguity" pos="MAG" subsequence="1">이제</morph>
+          </word>
+          <word>
+            <w>생각하면</w>
+            <morph from="213" to="217" analyzedType="Ambiguity" pos="NNG" subsequence="1">생각</morph>
+            <morph from="213" to="217" analyzedType="Ambiguity" pos="XSV" subsequence="2">하</morph>
+            <morph from="213" to="217" analyzedType="Ambiguity" pos="EC" subsequence="3">면</morph>
+          </word>
+          <word>
+            <w>후휘하지</w>
+            <morph from="218" to="222" analyzedType="Manual" pos="NNG" subsequence="1">후휘</morph>
+            <morph from="218" to="222" analyzedType="Manual" pos="XSV" subsequence="2">하</morph>
+            <morph from="218" to="222" analyzedType="Manual" pos="EC" subsequence="3">지</morph>
+          </word>
+          <word>
+            <w>않다.</w>
+            <morph from="223" to="226" analyzedType="Ambiguity" pos="VX" subsequence="1">않</morph>
+            <morph from="223" to="226" analyzedType="Ambiguity" pos="EF" subsequence="2">다</morph>
+            <morph from="223" to="226" analyzedType="Normal" pos="SF" subsequence="3">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+      <SENTENCE to="280" from="227">
+        <s>나는 친한 친구를 사궜고 한국의 아름다운 경치를 구경할 수 있고 맛있는 음식을 먹을 수 있다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>나는</w>
+            <morph from="227" to="229" analyzedType="Ambiguity" pos="NP" subsequence="1">나</morph>
+            <morph from="227" to="229" analyzedType="Ambiguity" pos="JX" subsequence="2">는</morph>
+          </word>
+          <word>
+            <w>친한</w>
+            <morph from="230" to="232" analyzedType="Ambiguity" pos="VA" subsequence="1">친하</morph>
+            <morph from="230" to="232" analyzedType="Ambiguity" pos="ETM" subsequence="2">ㄴ</morph>
+          </word>
+          <word>
+            <w>친구를</w>
+            <morph from="233" to="236" analyzedType="Normal" pos="NNG" subsequence="1">친구</morph>
+            <morph from="233" to="236" analyzedType="Normal" pos="JKO" subsequence="2">를</morph>
+          </word>
+          <word>
+            <w>사궜고</w>
+            <morph from="237" to="240" analyzedType="Manual" pos="VV" subsequence="1">사구</morph>
+            <morph from="237" to="240" analyzedType="Manual" pos="EP" subsequence="2">었</morph>
+            <morph from="237" to="240" analyzedType="Manual" pos="EC" subsequence="3">고</morph>
+          </word>
+          <word>
+            <w>한국의</w>
+            <morph from="241" to="244" analyzedType="Normal" pos="NNP" subsequence="1">한국</morph>
+            <morph from="241" to="244" analyzedType="Normal" pos="JKG" subsequence="2">의</morph>
+          </word>
+          <word>
+            <w>아름다운</w>
+            <morph from="245" to="249" analyzedType="Ambiguity" pos="VA" subsequence="1">아름답</morph>
+            <morph from="245" to="249" analyzedType="Ambiguity" pos="ETM" subsequence="2">ㄴ</morph>
+          </word>
+          <word>
+            <w>경치를</w>
+            <morph from="250" to="253" analyzedType="Normal" pos="NNG" subsequence="1">경치</morph>
+            <morph from="250" to="253" analyzedType="Normal" pos="JKO" subsequence="2">를</morph>
+          </word>
+          <word>
+            <w>구경할</w>
+            <morph from="254" to="257" analyzedType="Normal" pos="NNG" subsequence="1">구경</morph>
+            <morph from="254" to="257" analyzedType="Normal" pos="XSV" subsequence="2">하</morph>
+            <morph from="254" to="257" analyzedType="Normal" pos="ETM" subsequence="3">ㄹ</morph>
+          </word>
+          <word>
+            <w>수</w>
+            <morph from="258" to="259" analyzedType="Ambiguity" pos="NNB" subsequence="1">수</morph>
+          </word>
+          <word>
+            <w>있고</w>
+            <morph from="260" to="262" analyzedType="Manual" pos="VV" subsequence="1">있</morph>
+            <morph from="260" to="262" analyzedType="Ambiguity" pos="EC" subsequence="2">고</morph>
+          </word>
+          <word>
+            <w>맛있는</w>
+            <morph from="263" to="266" analyzedType="Normal" pos="VA" subsequence="1">맛있</morph>
+            <morph from="263" to="266" analyzedType="Normal" pos="ETM" subsequence="2">는</morph>
+          </word>
+          <word>
+            <w>음식을</w>
+            <morph from="267" to="270" analyzedType="Normal" pos="NNG" subsequence="1">음식</morph>
+            <morph from="267" to="270" analyzedType="Normal" pos="JKO" subsequence="2">을</morph>
+          </word>
+          <word>
+            <w>먹을</w>
+            <morph from="271" to="273" analyzedType="Ambiguity" pos="VV" subsequence="1">먹</morph>
+            <morph from="271" to="273" analyzedType="Ambiguity" pos="ETM" subsequence="2">을</morph>
+          </word>
+          <word>
+            <w>수</w>
+            <morph from="274" to="275" analyzedType="Ambiguity" pos="NNB" subsequence="1">수</morph>
+          </word>
+          <word>
+            <w>있다.</w>
+            <morph from="276" to="279" analyzedType="Manual" pos="VV" subsequence="1">있</morph>
+            <morph from="276" to="279" analyzedType="Ambiguity" pos="EF" subsequence="2">다</morph>
+            <morph from="276" to="279" analyzedType="Normal" pos="SF" subsequence="3">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+      <SENTENCE to="313" from="280">
+        <s>제일 중요한 것은 내 한국어 능력은 예전보다 더 좋다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>제일</w>
+            <morph from="280" to="282" analyzedType="Ambiguity" pos="MAG" subsequence="1">제일</morph>
+          </word>
+          <word>
+            <w>중요한</w>
+            <morph from="283" to="286" analyzedType="Normal" pos="NNG" subsequence="1">중요</morph>
+            <morph from="283" to="286" analyzedType="Normal" pos="XSA" subsequence="2">하</morph>
+            <morph from="283" to="286" analyzedType="Normal" pos="ETM" subsequence="3">ㄴ</morph>
+          </word>
+          <word>
+            <w>것은</w>
+            <morph from="287" to="289" analyzedType="Ambiguity" pos="NNB" subsequence="1">것</morph>
+            <morph from="287" to="289" analyzedType="Ambiguity" pos="JX" subsequence="2">은</morph>
+          </word>
+          <word>
+            <w>내</w>
+            <morph from="290" to="291" analyzedType="Ambiguity" pos="NP" subsequence="1">나</morph>
+            <morph from="290" to="291" analyzedType="Ambiguity" pos="JKG" subsequence="2">의</morph>
+          </word>
+          <word>
+            <w>한국어</w>
+            <morph from="292" to="295" analyzedType="Normal" pos="NNP" subsequence="1">한국어</morph>
+          </word>
+          <word>
+            <w>능력은</w>
+            <morph from="296" to="299" analyzedType="Normal" pos="NNG" subsequence="1">능력</morph>
+            <morph from="296" to="299" analyzedType="Normal" pos="JX" subsequence="2">은</morph>
+          </word>
+          <word>
+            <w>예전보다</w>
+            <morph from="300" to="304" analyzedType="Normal" pos="NNG" subsequence="1">예전</morph>
+            <morph from="300" to="304" analyzedType="Normal" pos="JKB" subsequence="2">보다</morph>
+          </word>
+          <word>
+            <w>더</w>
+            <morph from="305" to="306" analyzedType="Ambiguity" pos="MAG" subsequence="1">더</morph>
+          </word>
+          <word>
+            <w>좋다.</w>
+            <morph from="307" to="310" analyzedType="Ambiguity" pos="VA" subsequence="1">좋</morph>
+            <morph from="307" to="310" analyzedType="Ambiguity" pos="EF" subsequence="2">다</morph>
+            <morph from="307" to="310" analyzedType="Normal" pos="SF" subsequence="3">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+    </P>
+    <P to="375" from="313">
+      <SENTENCE to="342" from="313">
+        <s>지금 열심히 공부하고 좋은 회사에서 취직할 겁니다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>지금</w>
+            <morph from="313" to="315" analyzedType="Ambiguity" pos="NNG" subsequence="1">지금</morph>
+          </word>
+          <word>
+            <w>열심히</w>
+            <morph from="316" to="319" analyzedType="Normal" pos="MAG" subsequence="1">열심히</morph>
+          </word>
+          <word>
+            <w>공부하고</w>
+            <morph from="320" to="324" analyzedType="Normal" pos="NNG" subsequence="1">공부</morph>
+            <morph from="320" to="324" analyzedType="Normal" pos="XSV" subsequence="2">하</morph>
+            <morph from="320" to="324" analyzedType="Normal" pos="EC" subsequence="3">고</morph>
+          </word>
+          <word>
+            <w>좋은</w>
+            <morph from="325" to="327" analyzedType="Ambiguity" pos="VA" subsequence="1">좋</morph>
+            <morph from="325" to="327" analyzedType="Ambiguity" pos="ETM" subsequence="2">은</morph>
+          </word>
+          <word>
+            <w>회사에서</w>
+            <morph from="328" to="332" analyzedType="Ambiguity" pos="NNG" subsequence="1">회사</morph>
+            <morph from="328" to="332" analyzedType="Ambiguity" pos="JKB" subsequence="2">에서</morph>
+          </word>
+          <word>
+            <w>취직할</w>
+            <morph from="333" to="336" analyzedType="Normal" pos="NNG" subsequence="1">취직</morph>
+            <morph from="333" to="336" analyzedType="Normal" pos="XSV" subsequence="2">하</morph>
+            <morph from="333" to="336" analyzedType="Normal" pos="ETM" subsequence="3">ㄹ</morph>
+          </word>
+          <word>
+            <w>겁니다.</w>
+            <morph from="337" to="341" analyzedType="Ambiguity" pos="NNB" subsequence="1">것</morph>
+            <morph from="337" to="341" analyzedType="Ambiguity" pos="VCP" subsequence="2">이</morph>
+            <morph from="337" to="341" analyzedType="Ambiguity" pos="EF" subsequence="3">ㅂ니다</morph>
+            <morph from="337" to="341" analyzedType="Normal" pos="SF" subsequence="4">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+      <SENTENCE to="375" from="342">
+        <s>정용화의 음악회를 한 번 보기 위해 열실힘 생활하겠다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>정용화의</w>
+            <morph from="342" to="346" analyzedType="Manual" pos="NNP" subsequence="1">정용화</morph>
+            <morph from="342" to="346" analyzedType="Manual" pos="JKG" subsequence="2">의</morph>
+          </word>
+          <word>
+            <w>음악회를</w>
+            <morph from="347" to="351" analyzedType="Normal" pos="NNG" subsequence="1">음악회</morph>
+            <morph from="347" to="351" analyzedType="Normal" pos="JKO" subsequence="2">를</morph>
+          </word>
+          <word>
+            <w>한</w>
+            <morph from="352" to="353" analyzedType="Manual" pos="MM" subsequence="1">한</morph>
+          </word>
+          <word>
+            <w>번</w>
+            <morph from="354" to="355" analyzedType="Ambiguity" pos="NNB" subsequence="1">번</morph>
+          </word>
+          <word>
+            <w>보기</w>
+            <morph from="356" to="358" analyzedType="Ambiguity" pos="VV" subsequence="1">보</morph>
+            <morph from="356" to="358" analyzedType="Ambiguity" pos="ETN" subsequence="2">기</morph>
+          </word>
+          <word>
+            <w>위해</w>
+            <morph from="359" to="361" analyzedType="Ambiguity" pos="VV" subsequence="1">위하</morph>
+            <morph from="359" to="361" analyzedType="Ambiguity" pos="EC" subsequence="2">아</morph>
+          </word>
+          <word>
+            <w>열실힘</w>
+            <morph from="362" to="365" analyzedType="Manual" pos="MAG" subsequence="1">열실힘</morph>
+          </word>
+          <word>
+            <w>생활하겠다.</w>
+            <morph from="366" to="372" analyzedType="Manual" pos="NNG" subsequence="1">생활</morph>
+            <morph from="366" to="372" analyzedType="Manual" pos="XSV" subsequence="2">하</morph>
+            <morph from="366" to="372" analyzedType="Manual" pos="EP" subsequence="3">겠</morph>
+            <morph from="366" to="372" analyzedType="Manual" pos="EF" subsequence="4">다</morph>
+            <morph from="366" to="372" analyzedType="Normal" pos="SF" subsequence="5">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+    </P>
+    <P to="442" from="375">
+      <SENTENCE to="400" from="375">
+        <s>정용화가 내 인생의 길을 많이 지도를 했다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>정용화가</w>
+            <morph from="375" to="379" analyzedType="Manual" pos="NNP" subsequence="1">정용화</morph>
+            <morph from="375" to="379" analyzedType="Manual" pos="JKS" subsequence="2">가</morph>
+          </word>
+          <word>
+            <w>내</w>
+            <morph from="380" to="381" analyzedType="Ambiguity" pos="NP" subsequence="1">나</morph>
+            <morph from="380" to="381" analyzedType="Ambiguity" pos="JKG" subsequence="2">의</morph>
+          </word>
+          <word>
+            <w>인생의</w>
+            <morph from="382" to="385" analyzedType="Normal" pos="NNG" subsequence="1">인생</morph>
+            <morph from="382" to="385" analyzedType="Normal" pos="JKG" subsequence="2">의</morph>
+          </word>
+          <word>
+            <w>길을</w>
+            <morph from="386" to="388" analyzedType="Ambiguity" pos="NNG" subsequence="1">길</morph>
+            <morph from="386" to="388" analyzedType="Ambiguity" pos="JKO" subsequence="2">을</morph>
+          </word>
+          <word>
+            <w>많이</w>
+            <morph from="389" to="391" analyzedType="Normal" pos="MAG" subsequence="1">많이</morph>
+          </word>
+          <word>
+            <w>지도를</w>
+            <morph from="392" to="395" analyzedType="Ambiguity" pos="NNG" subsequence="1">지도</morph>
+            <morph from="392" to="395" analyzedType="Ambiguity" pos="JKO" subsequence="2">를</morph>
+          </word>
+          <word>
+            <w>했다.</w>
+            <morph from="396" to="399" analyzedType="Ambiguity" pos="VV" subsequence="1">하</morph>
+            <morph from="396" to="399" analyzedType="Ambiguity" pos="EP" subsequence="2">았</morph>
+            <morph from="396" to="399" analyzedType="Ambiguity" pos="EF" subsequence="3">다</morph>
+            <morph from="396" to="399" analyzedType="Normal" pos="SF" subsequence="4">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+      <SENTENCE to="442" from="400">
+        <s>같은 지역에 사지 안지만 나한테 정용화는 스타가 안니고 선생님을 같다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>같은</w>
+            <morph from="400" to="402" analyzedType="Normal" pos="VA" subsequence="1">같</morph>
+            <morph from="400" to="402" analyzedType="Normal" pos="ETM" subsequence="2">은</morph>
+          </word>
+          <word>
+            <w>지역에</w>
+            <morph from="403" to="406" analyzedType="Normal" pos="NNG" subsequence="1">지역</morph>
+            <morph from="403" to="406" analyzedType="Normal" pos="JKB" subsequence="2">에</morph>
+          </word>
+          <word>
+            <w>사지</w>
+            <morph from="407" to="409" analyzedType="Ambiguity" pos="VV" subsequence="1">사</morph>
+            <morph from="407" to="409" analyzedType="Ambiguity" pos="EC" subsequence="2">지</morph>
+          </word>
+          <word>
+            <w>안지만</w>
+            <morph from="410" to="413" analyzedType="Manual" pos="VX" subsequence="1">안</morph>
+            <morph from="410" to="413" analyzedType="Manual" pos="EC" subsequence="2">지만</morph>
+          </word>
+          <word>
+            <w>나한테</w>
+            <morph from="414" to="417" analyzedType="Normal" pos="NP" subsequence="1">나</morph>
+            <morph from="414" to="417" analyzedType="Normal" pos="JKB" subsequence="2">한테</morph>
+          </word>
+          <word>
+            <w>정용화는</w>
+            <morph from="418" to="422" analyzedType="Manual" pos="NNP" subsequence="1">정용화</morph>
+            <morph from="418" to="422" analyzedType="Manual" pos="JX" subsequence="2">는</morph>
+          </word>
+          <word>
+            <w>스타가</w>
+            <morph from="423" to="426" analyzedType="Ambiguity" pos="NNG" subsequence="1">스타</morph>
+            <morph from="423" to="426" analyzedType="Ambiguity, Manual" pos="JKC" subsequence="2">가</morph>
+          </word>
+          <word>
+            <w>안니고</w>
+            <morph from="427" to="430" analyzedType="Manual" pos="VCN" subsequence="1">안니</morph>
+            <morph from="427" to="430" analyzedType="Manual" pos="EC" subsequence="2">고</morph>
+          </word>
+          <word>
+            <w>선생님을</w>
+            <morph from="431" to="435" analyzedType="Normal, Manual" pos="NNG" subsequence="1">선생</morph>
+            <morph from="431" to="435" analyzedType="Manual" pos="XSN" subsequence="2">님</morph>
+            <morph from="431" to="435" analyzedType="Normal" pos="JKO" subsequence="3">을</morph>
+          </word>
+          <word>
+            <w>같다.</w>
+            <morph from="436" to="439" analyzedType="Ambiguity" pos="VA" subsequence="1">같</morph>
+            <morph from="436" to="439" analyzedType="Ambiguity" pos="EF" subsequence="2">다</morph>
+            <morph from="436" to="439" analyzedType="Normal" pos="SF" subsequence="3">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+    </P>
+    <P to="496" from="442">
+      <SENTENCE to="479" from="442">
+        <s>지금은 한국어를 잘하지 안지만 공향에 간다면 계속 공부할 겁니다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>지금은</w>
+            <morph from="442" to="445" analyzedType="Ambiguity" pos="NNG" subsequence="1">지금</morph>
+            <morph from="442" to="445" analyzedType="Ambiguity" pos="JX" subsequence="2">은</morph>
+          </word>
+          <word>
+            <w>한국어를</w>
+            <morph from="446" to="450" analyzedType="Normal" pos="NNP" subsequence="1">한국어</morph>
+            <morph from="446" to="450" analyzedType="Normal" pos="JKO" subsequence="2">를</morph>
+          </word>
+          <word>
+            <w>잘하지</w>
+            <morph from="451" to="454" analyzedType="Ambiguity" pos="MAG" subsequence="1">잘</morph>
+            <morph from="451" to="454" analyzedType="Ambiguity, Manual" pos="XSV" subsequence="2">하</morph>
+            <morph from="451" to="454" analyzedType="Ambiguity" pos="EC" subsequence="3">지</morph>
+          </word>
+          <word>
+            <w>안지만</w>
+            <morph from="455" to="458" analyzedType="Manual" pos="VX" subsequence="1">안</morph>
+            <morph from="455" to="458" analyzedType="Manual" pos="EC" subsequence="2">지만</morph>
+          </word>
+          <word>
+            <w>공향에</w>
+            <morph from="459" to="462" analyzedType="Manual" pos="NNG" subsequence="1">공향</morph>
+            <morph from="459" to="462" analyzedType="Manual" pos="JKB" subsequence="2">에</morph>
+          </word>
+          <word>
+            <w>간다면</w>
+            <morph from="463" to="466" analyzedType="Ambiguity" pos="VV" subsequence="1">가</morph>
+            <morph from="463" to="466" analyzedType="Ambiguity" pos="EC" subsequence="2">ㄴ다면</morph>
+          </word>
+          <word>
+            <w>계속</w>
+            <morph from="467" to="469" analyzedType="Ambiguity" pos="MAG" subsequence="1">계속</morph>
+          </word>
+          <word>
+            <w>공부할</w>
+            <morph from="470" to="473" analyzedType="Normal" pos="NNG" subsequence="1">공부</morph>
+            <morph from="470" to="473" analyzedType="Normal" pos="XSV" subsequence="2">하</morph>
+            <morph from="470" to="473" analyzedType="Normal" pos="ETM" subsequence="3">ㄹ</morph>
+          </word>
+          <word>
+            <w>겁니다.</w>
+            <morph from="474" to="478" analyzedType="Ambiguity" pos="NNB" subsequence="1">것</morph>
+            <morph from="474" to="478" analyzedType="Ambiguity" pos="VCP" subsequence="2">이</morph>
+            <morph from="474" to="478" analyzedType="Ambiguity" pos="EF" subsequence="3">ㅂ니다</morph>
+            <morph from="474" to="478" analyzedType="Normal" pos="SF" subsequence="4">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+      <SENTENCE to="496" from="479">
+        <s>내 목표 위해서 노력할겠다.</s>
+        <MorphemeAnnotations>
+          <word>
+            <w>내</w>
+            <morph from="479" to="480" analyzedType="Ambiguity" pos="NP" subsequence="1">나</morph>
+            <morph from="479" to="480" analyzedType="Ambiguity" pos="JKG" subsequence="2">의</morph>
+          </word>
+          <word>
+            <w>목표</w>
+            <morph from="481" to="483" analyzedType="Normal" pos="NNG" subsequence="1">목표</morph>
+          </word>
+          <word>
+            <w>위해서</w>
+            <morph from="484" to="487" analyzedType="Ambiguity" pos="VV" subsequence="1">위하</morph>
+            <morph from="484" to="487" analyzedType="Ambiguity" pos="EC" subsequence="2">아서</morph>
+          </word>
+          <word>
+            <w>노력할겠다.</w>
+            <morph from="488" to="494" analyzedType="Manual" pos="NNG" subsequence="1">노력</morph>
+            <morph from="488" to="494" analyzedType="Manual" pos="XSV" subsequence="2">할</morph>
+            <morph from="488" to="494" analyzedType="Manual" pos="EP" subsequence="3">겠</morph>
+            <morph from="488" to="494" analyzedType="Manual" pos="EF" subsequence="4">다</morph>
+            <morph from="488" to="494" analyzedType="Normal" pos="SF" subsequence="5">.</morph>
+          </word>
+        </MorphemeAnnotations>
+        <LearnerErrorAnnotations />
+      </SENTENCE>
+    </P>
+  </BODY>
+</Korean_Learners_Corpus>
